@@ -76,5 +76,5 @@ A aplicação de Limites permitiu transformar dados brutos de negócios em uma p
 
 -----
 
-**Autor:** [Seu Nome]
+**Autor:** Eloá Juliana Lucindo Coradini.
 **Data:** Novembro de 2025
