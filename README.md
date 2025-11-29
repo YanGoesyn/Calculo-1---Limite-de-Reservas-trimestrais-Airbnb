@@ -1,10 +1,3 @@
-# Calculo-1---Limite-de-Reservas-trimestrais-Airbnb
-Aqui está um modelo de **README.md** profissional e completo para o seu projeto. Ele explica o contexto acadêmico (Cálculo/Limites), o contexto de negócios (Airbnb) e como o código funciona.
-
-Você pode copiar e colar este texto diretamente em um arquivo chamado `README.md` na pasta do seu projeto.
-
------
-
 # Análise de Limite de Crescimento: Airbnb (2022-2025)
 
 Este projeto aplica conceitos de **Cálculo I (Limites)** e **Modelagem Matemática** para analisar o crescimento de reservas da Airbnb. O objetivo é identificar se a empresa ainda está em fase de crescimento exponencial ou se já apresenta sinais de saturação de mercado (comportamento logístico).
