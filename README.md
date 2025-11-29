@@ -53,7 +53,7 @@ O projeto foi desenvolvido em **Python** utilizando as seguintes bibliotecas:
 2.  **Execute o script:**
 
     ```bash
-    python nome_do_arquivo.py
+    python analiseLimit.py
     ```
 
 3.  **O que o código faz:**
